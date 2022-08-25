@@ -1,0 +1,6 @@
+OPENAI_API_KEY="<open ai key>"
+MONGO_URI="<mongo url>"
+TWITTER_APP_KEY="<twitter app key>"
+TWITTER_APP_SECRET="<twitter app secret>"
+TWITTER_BEARER_TOKEN="<twitter bearer TWITTER_BEARER_TOKEN>"
+ENVIRONMENT="development"

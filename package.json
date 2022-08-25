@@ -1,0 +1,25 @@
+{
+  "name": "autofriend-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.io": "^2.5.3",
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mkdirp": "^1.0.4",
+    "mongodb": "^4.9.0",
+    "node-twitter-api": "^1.8.0",
+    "openai": "^3.0.0",
+    "random-words": "^1.2.0",
+    "twitter-api-v2": "^1.12.3"
+  }
+}
